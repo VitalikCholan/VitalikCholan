@@ -6,11 +6,11 @@
 
 :wave: Hi there! I'm Vitalik Cholan, a passionate frontend-blockchain developer with a desire to create interactive user experiences and integrate blockchain technology correctly.
 
-:computer: Currently, I am almost done with my project - a cryptocurrency converter as a Google Chrome extension.
+:computer: Currently working at Insiders.
 <br>
-:mortar_board: Currently, I'm learning Angular, Solidity, and RxJS.
+:mortar_board: Currently, I'm learning Solidity, HardHat and smart contract security/vulnerabilities.
 <br>
-:eyes: I'm looking for a job in the tech industry.
+:eyes: I'm looking for new opportunities in frontend and blockchain development.
 <br>
 :man: Pronouns: Vitalik Cholan or Vitaliy Cholan.
 <br>
@@ -22,9 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="100" height="100" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="100" height="100" alt="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100" height="100" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" height="100" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rxjs/rxjs-original.svg" width="100" height="100" alt="RxJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" width="100" height="100" alt="RgRx/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="100" height="100" alt="Solidity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" width="100" height="100" alt="Hardhat"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" alt="Git"/>
