@@ -4,13 +4,13 @@
 
 ## Introduction
 
-:wave: Hi there! I'm Vitalik Cholan, a passionate frontend-blockchain developer with a desire to create interactive user experiences and integrate blockchain technology correctly.
+:wave: Hi there! I'm Vitalik Cholan, a passionate fullstack web3 developer with a desire to create interactive user experiences and integrate blockchain technology correctly.
 
-:computer: Currently working at Insiders.
+:computer: Currently working at SapientPro.
 <br>
-:mortar_board: Currently, I'm learning Solidity, HardHat and smart contract security/vulnerabilities.
+:mortar_board: Currently, I'm enhancing my audit skills of smart contracts.
 <br>
-:eyes: I'm looking for new opportunities in frontend and blockchain development.
+:eyes: I'm looking for new opportunities in the web3 space.
 <br>
 :man: Pronouns: Vitalik Cholan or Vitaliy Cholan.
 <br>
